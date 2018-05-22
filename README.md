@@ -7,3 +7,6 @@
 - POST
 - PUT
 - DELETE
+
+### Preview:
+![alt-text](https://github.com/PierreBezuchow/easyhttp/blob/master/img/easyhttp-screenshot.png)
