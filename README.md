@@ -6,4 +6,4 @@
 - GET
 - POST
 - PUT
-- Delete
+- DELETE
